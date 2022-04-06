@@ -1,1 +1,4 @@
-<a href="https://github.com/zolvin?tab=repositories"><img src="https://github.com/zolvin/zolvin/blob/main/05 logo.png"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+  <img src="./assets/logo.png">
+</picture>
